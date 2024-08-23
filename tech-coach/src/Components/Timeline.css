@@ -1,0 +1,59 @@
+.line{
+    margin-top: 16rem;
+    font-weight: bold;
+}
+.time{
+    background-image: url(../images/pic.jpg);
+    background-size: cover;
+    height: 45.6rem;
+}
+.research{
+    margin-top: 9rem;
+    margin-left: 77rem;
+    height: 2rem;
+    border-radius: 5px;
+}
+.caret{
+    margin-left: 80rem;
+    position: absolute;
+    margin-top: 9rem;
+    height: 2rem;
+    width: 10rem;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+
+
+.tag-name {
+    position: absolute;
+   margin-top: 12rem;
+   margin-left: 79.5rem;
+    width: 11rem;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-weight: bold;
+   box-shadow: 10rem;
+    
+   
+    
+  }
+  
+  .tag-name ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    
+  }
+  
+  .tag-name li {
+    padding: 10px 20px;
+    cursor: pointer;
+    
+  }
+  
+  .tag-name li:hover {
+    background-color: #949393;
+  }
+  

@@ -1,0 +1,127 @@
+.verti{
+    display: grid;
+    gap: 1rem;
+    width: 10rem;
+    position: absolute;
+    margin-top: 9.2rem;
+    padding-left: 28rem;
+    font-size: 1rem;
+    font-weight: bold;
+  
+    
+}
+.horizontal{
+    display: grid;
+    gap: 1rem;
+}
+
+.zero{
+    background-color: #f9f9f9; 
+    padding: 20px;           
+    border-radius: 10px;     
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+    max-width: 85rem;  
+    margin-right: 8rem; 
+    margin-top: 8rem;
+    margin-left: 8rem;
+    height: 7rem;
+   
+
+
+}
+.zone{
+    display: grid;
+    gap: 1rem;
+    width: 11rem;
+    position: absolute;
+    margin-top: 9.2rem;
+    padding-left: 47rem;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.one{
+   
+    height: 2rem;
+   margin-left:8rem ;
+   margin-top: 1.3rem;
+   font-weight: bold;
+   font-size: 1.1rem;
+  
+  
+   
+}
+
+.hunt{
+    padding-left: 8rem;
+    padding-top: 1.5rem;
+    font-size: 1.1rem;
+}
+
+.two{
+    background-image: url(../images/pic.jpg);
+    background-size: cover;
+    height: 44.6rem;
+    font-weight: bold;
+    
+}
+.three{
+    height: 3rem;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 1rem;
+    border: none; 
+    background-color: rgb(235, 140, 140);
+    background-color: rgb(108, 106, 106);
+    color: white;
+
+}
+.four{
+    height: 3rem;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 1rem;
+    border: none; 
+    background-color: rgb(117, 101, 129);
+    color: white;
+
+}
+.five{
+    height: 3rem;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 1rem;
+    border: none; 
+    background-color: rgb(235, 140, 140);
+    background-color: rgb(108, 106, 106);
+    color: white;
+ 
+
+}
+.six{
+    height: 3rem;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 1rem;
+    border: none; 
+    background-color: aqua;
+    background-color: rgb(117, 101, 129);
+    color: white;
+ 
+
+}
+.getlink{
+    height: 3rem;
+    width: 12rem;
+    position: absolute;
+    margin-top: 11.3rem;
+    margin-left: 67rem;
+    text-align: center;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 1rem;
+    border: none; 
+    background-color: rgb(235, 140, 140);
+    background-color: rgb(90, 87, 90);
+    color: white;
+}

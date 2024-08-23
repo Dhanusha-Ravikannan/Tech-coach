@@ -1,0 +1,70 @@
+.request{
+    font-size: 22px;
+    font-weight: normal;
+    display: grid;
+    gap: 2rem;
+    color: rgb(192, 10, 10);
+    font-weight: bold;
+    padding-top: 10rem;
+    margin-left: 11rem;
+    color: red;
+    color: black;
+   
+   
+}
+
+.spa{
+    font-size: 24px;
+    font-weight: bold;
+    color: rgb(145, 66, 144);
+    
+    
+}
+
+.yes{
+    height: 2.8rem;
+    width: 5rem;
+    font-weight: bold;
+    font-size: 1.1rem;
+    margin-left: 56rem;
+    background-color: rgb(49, 87, 211);
+    background-color: blue;
+    background-color: rgb(85, 86, 86);
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+}
+
+
+.short{
+    
+    font-weight: bold;
+    font-size: 1.1rem;
+    background-color: rgb(252, 82, 82);
+    background-color: rgb(144, 104, 149);
+    color: white;
+    border-radius: 8px;
+    margin-left: 1.5rem;
+    height: 2.8rem;
+    width: 5rem;
+    cursor: pointer;  
+}
+
+
+.camera{
+    background-image: url(../images/pic.jpg);
+    background-size: cover;
+    height: 45.6rem;
+}
+
+
+.wake{
+        background-color: #f9f9f9; 
+        padding: 30px;           
+        border-radius: 10px;     
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+        max-width: 91rem;  
+        margin-right: 10rem;    
+        padding-left: 3rem;     
+    
+}

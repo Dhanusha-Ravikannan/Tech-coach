@@ -1,0 +1,58 @@
+.hello{
+    margin: 0;
+    border: 0;
+    display: flex;
+    gap: 3rem;
+    padding-top: 2rem;
+
+    
+}
+
+
+.sett{
+    border-radius: 0.4rem;
+    font-weight: bold;
+    background-color: rgb(119, 125, 123);
+    cursor: pointer;
+    font-size: 15px; 
+}
+
+.test{
+    background-image: url(../images/pic.jpg);
+    background-size: cover;
+    height: 45.6rem; 
+   
+}
+
+
+
+.first{
+    margin-left: 2rem;
+    margin-right: 2rem;
+    height: 7rem;
+    width: 33rem;
+    border-radius: 7px;
+    margin-top: 15rem;
+    font-weight: bold;
+    font-size: 1.3rem;
+    background-color: rgb(223, 132, 132);
+    cursor: pointer;
+    color: rgb(25, 2, 59);
+    /* color: white; */
+
+
+    background-color: #f9f9f9;          
+    border-radius: 10px;     
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+    border: none;
+}
+
+.first:hover{
+    background-color: rgb(127, 122, 121);
+    color: rgb(25, 2, 59);
+   
+    background-color: rgb(223, 132, 132);
+    background-color: rgb(111, 108, 107);
+    color: white;
+
+}

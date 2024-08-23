@@ -1,0 +1,90 @@
+.hyperactive{
+   position: absolute;
+   margin-top: 8rem;
+   font-weight: bold;
+   font-size: 1.6rem;
+   margin-left: 3rem;
+}
+
+.activee{
+    position: absolute;
+    margin-top: 10rem;
+    display: flex;
+    gap: 5rem;
+    margin-left: 10rem;  
+    
+}
+.superactive{
+    position: absolute;
+    margin-top: 15rem;
+    font-weight: bold;
+    font-size: 1.6rem;
+    margin-left: 3rem;
+}
+
+.topmost{
+    position: absolute;
+    margin-top: 18rem;
+   font-weight: bold;
+   display: flex;
+   gap: 5rem;
+   justify-content: center;
+   text-align: center;
+   margin-left: 10rem;
+   height: 4rem;
+   font-size: 1.1rem;
+
+}
+
+.topmost button{
+    
+    background-color: rgb(117, 101, 129);
+    width: 12rem;
+    font-size: 1.1rem;
+    font-weight: bold;
+    border: none;
+    background-color: #f9f9f9; 
+            
+    border-radius: 10px;     
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+}
+
+.activee button{
+    background-color: rgb(4, 48, 48);
+    background-color: rgb(235, 140, 140);
+    /* margin-left: 16rem; */
+    height: 4rem;
+    font-size: 1.1rem;
+    font-weight: bold;
+    border: none;
+    background-color: #f9f9f9; 
+    padding: 20px;           
+    border-radius: 10px;     
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+    
+    
+}
+
+.supername{
+    position: absolute;
+    margin-top: 27rem;
+   font-weight: bold;
+   height: 3rem;
+   font-size: 1.1rem;
+   margin-left: 3rem;
+   padding-left: 1rem;
+   padding-right: 1rem;
+   border-radius: 10px;
+   background-color: rgb(66, 65, 65);
+   color: white;
+   
+   
+   
+
+}
+
+.callback{
+    background-image: url(../images/pic.jpg);
+    background-size: cover;
+    height: 44.6rem;
+}

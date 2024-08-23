@@ -1,0 +1,137 @@
+.awesome table{
+    margin-top: 2rem;
+    margin-left: 2rem;
+    border-collapse: collapse;
+   
+   
+ 
+     
+ }
+ 
+ .ready{
+    
+     display: flex;
+     justify-content: center;
+     font-size: 1.6rem;
+     font-weight: bold;
+     color: red;
+    
+    
+     
+ }
+ 
+ 
+ .awesome td,th,tr{
+     border: 2px solid black;
+     padding-left: 1rem;
+     padding-right: 1rem;
+     height: 4rem;
+     text-align: center;
+    
+ }
+ .awesome th{
+     font-size: 20px;
+     font-weight: bold;
+    color: blue;
+    color: #6c09aa;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+ }
+ 
+ 
+ .cork{
+     margin-top: 1rem;
+     display: flex;
+     text-align: center;
+     margin-left: 31rem;
+     padding-left: 1rem;
+     padding-right: 1rem;
+     height: 2.5rem;
+     padding-top: 0.5rem;
+     padding-bottom: 1rem;
+     font-size: 1.2rem;
+     font-weight: bold;
+     border-radius: 5px;
+     background-color:#881bcc;
+     background-color: rgb(142, 38, 38);
+     background-color: rgb(109, 105, 105);
+     color: white;
+     cursor: pointer;
+     
+    
+ }
+
+ .cork:hover{
+    background-color: red;
+    background-color: rgb(51, 50, 50);
+ }
+ 
+ 
+ .awesome td{
+  font-size: 18px;
+  font-weight: bold;
+ }
+ 
+ .stop{
+     background-image: url(../images/pic.jpg);
+     background-size: cover;
+     height: 45.6rem;
+ }
+ 
+ .awesome input{
+     width: 4.5rem;
+     height: 2rem;
+     border-radius: 4px;
+     border-color: black;
+     
+ }
+ .awesome textarea{
+     height: 2rem;
+     border-radius: 4px;
+     border-color: black;
+     
+    
+ 
+ }
+
+.awesome button{
+    width: 6rem;
+    height: 2rem;
+    border-radius: 4px;
+    border-color: black;
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+.awesome button.shade{
+    
+    background-color: red;
+    background-color: #6f4d85;
+    color: white;
+    cursor: pointer;
+    height: 2rem;
+    width: 5rem;
+    
+
+}
+
+.awesome button.paint{
+    background-color: rgb(97, 97, 104);
+    
+    color: white;
+    cursor: pointer;
+    width: 5rem;
+    height: 2rem;
+}
+.sky{
+    background-color: #f9f9f9;          
+    border-radius: 10px;     
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+    /* max-width: 85rem;   */
+    width: 70rem;
+    padding: 30px;
+    margin-top: 8rem;
+    margin-left: 11rem;
+    height: 24rem;
+}
+

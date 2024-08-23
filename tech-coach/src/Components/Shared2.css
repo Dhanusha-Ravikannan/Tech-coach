@@ -1,0 +1,64 @@
+.usee{
+    display: grid;
+    gap: 1rem;
+    padding-top: 2rem;
+    font-weight: bold;
+    margin-left: 5rem;
+    font-size: 1.1rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.uplift{
+    width: 7rem;
+    border-radius: 6px;
+    font-size: 1rem;
+    font-weight: bold;
+    height: 2.3rem;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(117, 101, 129);
+    color: white;
+    cursor: pointer;
+    border: none;
+}
+
+.downlift{
+   
+    width: 75rem;
+    height: 3.5rem;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    background-color: rgb(223, 132, 132);
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+}
+
+.cold{
+    
+    font-size: 1.2rem;
+    font-weight: bold;
+
+}
+
+.us{
+   
+    font-size: 1rem;
+
+}
+
+.hot{
+    background-image: url(../images/pic.jpg);
+    background-size: cover;
+    height: 44.6rem;
+}
+
+.you{
+    background-color: #f9f9f9; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+    padding-bottom: 2rem; 
+    margin-top: 5rem;
+    width: 85rem;
+    margin-left: 5rem;
+    border-radius: 10px; 
+    
+}

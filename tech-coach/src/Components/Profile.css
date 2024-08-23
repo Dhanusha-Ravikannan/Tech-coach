@@ -1,0 +1,138 @@
+.cen{
+   
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   padding-top: 8rem;
+   border: 0%;
+   margin: 0%;
+}
+
+.per{
+    font-size: 1.1rem;
+    height: 3rem;
+    border-radius: 5px;
+    font-weight: bold;
+    padding-left: 8.5rem;
+    padding-right: 7rem;
+    background-color: rgb(49, 68, 60);
+    color: aliceblue;
+    border: none;
+    width:37.6rem;
+    cursor: pointer;
+    background-color: rgb(212, 126, 126);
+    background-color: rgb(85, 81, 81);
+}
+
+.per:hover{
+    background-color: rgb(62, 58, 58);
+}
+
+.hit{
+    background-color: #f9f9f9; 
+    padding: 20px;           
+    border-radius: 10px;     
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+    max-width: 85rem;  
+    margin-right: 20rem; 
+    margin-left: 20rem;
+    padding-bottom: 2rem;
+    
+}
+
+
+.account{
+    font-size: 1.1rem;
+    height: 3rem;
+    border-radius: 5px;
+    font-weight: bold;
+    padding-left: 11.2rem;
+    padding-right: 11.2rem;
+    background-color: rgb(49, 68, 60);
+    background-color: red;
+    /* background-color: rgba(23, 7, 7, 0.645); */
+    width: 42rem;
+    color: aliceblue;
+    cursor: pointer;
+    border: none;
+    background-color: rgb(85, 81, 81);
+    
+
+}
+
+.hifi{
+    display: flex;
+    gap: 2rem;
+    justify-content: center;   
+  
+}
+
+.load{
+    background-color: rgb(250, 51, 51);
+    font-size: 1.2rem;
+    height: 3rem;
+    border-radius: 5px;
+    color: white;
+    width: 20rem;
+    background-color: blue;
+    background-color: rgb(117, 101, 129);
+    cursor: pointer;
+    border: none;
+}
+
+.down{
+   
+    font-size: 1.2rem;
+    height: 3rem;
+    border-radius: 5px;
+    width: 20rem;
+    background-color: blue;
+    background-color: rgb(117, 101, 129);
+    color: white;
+    cursor: pointer;
+    border: none;
+}
+
+.picture{
+    font-size: 3rem;
+    color:   rgb(89, 87, 87);;
+    
+}
+
+.naps{
+    font-weight: normal;
+
+}
+
+.edit{
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+}
+
+.awe{
+    font-size: 1.9rem;
+    margin-top: 8px;
+    color: rgb(34, 34, 119);
+    color: rgb(49, 68, 60);
+    cursor: pointer;
+    color:   rgb(89, 87, 87);;
+    
+    
+}
+
+.awe:hover{
+   color: rgb(62, 58, 58);
+}
+
+.color{
+    background-image: url(../images/pic.jpg);
+    background-size: cover;
+    height: 45.6rem;
+}
+
+.pick{
+    color: rgb(15, 15, 211);
+    color: #6c09aa;
+    margin-top: 2rem;
+}
+

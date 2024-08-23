@@ -1,0 +1,128 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+
+
+.chart{
+    margin-left: 45rem;
+}
+
+.outline{
+   
+   margin-top: 5rem;
+   margin-left: 4rem;
+   background-color: #f9f9f9; 
+   padding: 20px;           
+   border-radius: 10px;     
+   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+   height: 20rem;
+   width: 40rem;
+   
+}
+
+
+.rea th{
+    height: 1.5rem;
+    width: 12rem;
+    border-radius: 2px;
+    border-color: rgb(198, 167, 218);
+}
+
+.smi{
+    background-image: url(../images/pic.jpg);
+    background-size: cover;
+    height: 47.6rem;
+
+}
+
+.bunt{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 7rem;
+    height: 2.5rem;
+    background-color: rgb(91, 93, 93);
+    color: white;
+    font-weight: bold;
+    font-size: 1rem;
+    border-radius: 3px;
+    margin-left: 4rem;
+    width: 10rem;
+    border: none;
+    box-shadow: 15rem;
+
+}
+
+.buttercream{
+    color: rgb(250, 250, 250);
+    font-weight: bold;
+    background-color: rgb(117, 101, 129);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1rem;
+    border-radius: 10px;
+    height: 2.5rem;
+    width: 10rem;
+    border-radius: 3px;
+    border: none;
+    margin-top: 2rem;
+}
+
+
+
+.dancingbreak{
+   
+    margin-top: 1rem;
+    margin-left: 4rem;
+    height: 2.5rem;
+    display: flex;
+    gap: 2rem;
+
+}
+
+.open{
+    margin-left: 47rem;
+    bottom: 26rem;
+    
+}
+.sharp{
+    display: flex;
+    gap: 13rem;
+    font-weight: bold;  
+    font-size: 1.3rem;
+    margin-left: 53rem;
+    bottom: 18rem;
+    
+}
+.showcase{
+    font-weight: bold;  
+    margin-left: 56rem;
+    bottom: 18rem;
+
+}
+.close{
+    bottom: 50.9rem;
+    margin-left: 69rem;
+}
+
+.rea, th, td{
+    font-size: 1.1rem;
+    /* border-collapse: collapse; */
+}
+
+.hire{
+    display: flex;
+    gap: 2rem;
+    margin-left: 54rem;
+    bottom: 25rem;
+    position: absolute;
+    font-size: 1.2rem;
+}
+
+.now{
+    margin-left: 79.7rem;
+    bottom: 25rem;
+    position: absolute;
+    font-size: 1.2rem;
+}

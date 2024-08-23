@@ -1,0 +1,40 @@
+.heat{
+    padding-top: 7rem;
+    display: flex;
+    gap: 2rem;
+    height: 3rem;
+    margin-left: 45rem;
+    width: 55rem;
+    border: none;
+   
+}
+
+.aria{
+    background-image: url(../images/pic.jpg);
+    background-size: cover;
+    height: 44.6rem;
+}
+.ask{
+    margin-left: 78rem;
+    position: absolute;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+    height: 2rem;
+
+
+}
+
+.penddec{
+   display: flex;
+   justify-content: center;
+   margin-top: 5.6rem;
+   font-size: 1.3rem;
+   font-weight: bold;
+   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+   height: 2rem;
+   background-color: #f9f9f9; 
+   padding: 10px;           
+   border-radius: 10px;     
+   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+   max-width: 85rem; 
+   margin-left: 4rem;
+}

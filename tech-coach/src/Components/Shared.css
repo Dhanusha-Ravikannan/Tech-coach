@@ -1,0 +1,21 @@
+
+
+.bottle{
+        background-color: #f9f9f9; 
+        padding: 30px;           
+        border-radius: 10px;     
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);  
+        margin-right: 10rem;    
+        padding-left: 3rem; 
+        margin-top: 8rem;
+        height: 2.7rem;
+        width: 25rem;
+        margin-left: 3rem;
+        position: absolute;
+}
+
+.classname{
+    background-image: url(../images/pic.jpg);
+    background-size: cover;
+    height: 44.6rem;
+}

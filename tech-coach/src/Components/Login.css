@@ -1,0 +1,205 @@
+
+
+@media only screen and (min-width: 600px) {
+
+    *{
+        margin: 0;
+        padding: 0;
+    }
+
+    .img{
+        position: fixed;
+        height:50px;
+        margin-left: 4rem;
+        top: 0.5rem;
+       
+    }
+    
+    .home{
+        position:fixed;
+        font-weight: bold;
+        top: 20px;
+        width: 10rem;
+        margin-left: 87rem;
+    }
+    
+    .log{
+       
+        color: aliceblue;
+        background-color: rgb(2, 2, 2);
+        width: 5rem;
+        top: 6rem;
+        margin-left: 47rem;
+        position: fixed;
+        padding-left: 1rem;
+        height: 2rem;
+    }
+    
+    .font{
+        text-align: center;
+        padding-right: 8rem;
+        height: 2rem; width: 3rem;
+        cursor: pointer;
+        left: 42rem;
+        position: fixed;
+        top: 10.5rem;
+        
+       
+    }
+    
+    .sign{
+        top: 10rem;
+        height: 3rem;
+        font-weight: bold;
+        border-radius: 15rem;
+        font-size: 1rem;
+        position: fixed;
+        left: 37rem;
+        width: 26rem;
+        padding-left: 6rem;
+        
+    }
+    
+    
+    
+    .sign:hover{
+        
+        background-color: rgb(226, 226, 226);
+        /* background-color: rgb(251, 122, 122); */
+        
+    }
+    
+    .bggg{
+    
+        background-color: grey;
+        height: 4rem;
+        width: 100%;
+        position: fixed;
+      
+    }
+       
+    
+    .back{
+        
+        background-image: url(../images/pic.jpg);
+        background-size: cover;
+        height: 45.6rem;
+       
+    }
+    
+    
+    
+    .photo{
+       
+        margin-Left:55px; 
+        padding-top: 17rem;
+        display: flex;
+        gap: 43rem;
+    }
+    
+    
+    .dec{
+        font-family: monospace;
+    
+    }
+    
+    .in{
+        position: absolute;
+        top: 10rem;
+       
+    }
+    }
+
+    
+/* .think{
+    position:relative;
+    top: 18rem;
+    margin-left: 33rem;
+    width: 30rem;
+    height: 20rem;
+    
+} */
+
+
+/* .img {
+    position: fixed;
+    height: 40px;
+    margin-left: 1rem;
+    top: 0.8rem;
+}
+
+.home {
+    position: fixed;
+    font-weight: bold;
+    top: 5px;
+    color: black;
+    width: 8rem;
+    margin-left: 17rem;
+}
+
+.log {
+    color: aliceblue;
+    background-color: rgb(2, 2, 2);
+    width: 4rem;
+    top: 4rem;
+    margin-left: 9rem;
+    position: fixed;
+    padding-left: 0.5rem;
+    height: 1.5rem;
+}
+
+.font {
+    text-align: center;
+    padding-right: 5rem;
+    height: 1.5rem;
+    width: 2rem;
+    cursor: pointer;
+    left: 4rem;
+    position: fixed;
+    top: 8.2rem;
+}
+
+.sign {
+    top: 8rem;
+    height: 2rem;
+    font-weight: bold;
+    border-radius: 1rem;
+    font-size: 0.8rem;
+    position: fixed;
+    left: 2rem;
+    width: 18rem;
+    padding-left: 2rem;
+}
+
+.sign:hover {
+    background-color: rgb(251, 122, 122);
+}
+
+.bggg {
+    background-color: grey;
+    height: 3rem;
+    width: 100%;
+    position: fixed;
+}
+
+.back {
+    background-image: url(../images/pic.jpg);
+    background-size: cover;
+    height: 40rem;
+}
+
+.in {
+    position: absolute;
+    top: 8rem;
+} */
+
+
+
+
+
+
+
+
+
+
+
