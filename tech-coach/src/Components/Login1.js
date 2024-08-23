@@ -37,10 +37,6 @@ const Login1 =()=>{
     </section>
 
 
-
-  
-   
-
     
     </>
     )

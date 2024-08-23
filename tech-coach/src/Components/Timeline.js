@@ -118,11 +118,6 @@ const Timelineee = () => {
 
     </div>
     </div> 
-
-          
-
-    
-  
     
     </>
 

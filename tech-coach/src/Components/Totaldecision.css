@@ -43,7 +43,6 @@
 .butter{
     color: rgb(250, 250, 250);
     font-weight: bold;
-    /* background-color: rgb(144, 27, 27); */
     background-color: rgb(117, 101, 129);
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 1rem;
@@ -65,7 +64,6 @@
     top: 8rem;
     height: 2.5rem;
     background-color: rgb(91, 93, 93);
-    /* background-color: rgb(235, 140, 140); */
     color: white;
     font-weight: bold;
     font-size: 1rem;
@@ -79,7 +77,6 @@
 
 .bun:hover{
     cursor: pointer;
-    background-color: rgb(41, 41, 93);
     background-color: rgb(74, 74, 77);
     color: white;
 
@@ -88,7 +85,6 @@
 .cream{
     
     background-color: rgb(91, 93, 93);
-    /* background-color: rgb(156, 20, 20); */
     color: bisque;
     color: white;
     font-weight: bold;
@@ -104,7 +100,6 @@
 
 }
 .cream:hover{
-    background-color: rgb(8, 8, 42);
     background-color: rgb(100, 70, 129);
 }
 
@@ -113,12 +108,10 @@
   
     border-collapse: collapse;
     border: none;
-    background-color: rgb(174, 166, 166);
     background-color: rgb(91, 93, 93);
     color: white;
     width: 40rem;
     font-size: 1.1rem;
-    /* background-color: rgb(223, 132, 132); */
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
    
 }
@@ -147,10 +140,7 @@
     border-collapse: collapse;
     margin-bottom: 1rem;
     margin-top: 1rem;
-    
-   
 }
-
 
 
 .table-container {

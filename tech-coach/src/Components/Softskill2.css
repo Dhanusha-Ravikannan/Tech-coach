@@ -2,22 +2,15 @@
     margin-top: 2rem;
     margin-left: 2rem;
     border-collapse: collapse;
-   
-   
- 
      
  }
  
  .ready{
-    
      display: flex;
      justify-content: center;
      font-size: 1.6rem;
      font-weight: bold;
-     color: red;
-    
-    
-     
+     color: red; 
  }
  
  
@@ -68,8 +61,8 @@
  
  
  .awesome td{
-  font-size: 18px;
-  font-weight: bold;
+    font-size: 18px;
+    font-weight: bold;
  }
  
  .stop{

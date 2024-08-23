@@ -38,21 +38,18 @@
 
 .topmost button{
     
-    background-color: rgb(117, 101, 129);
+   
     width: 12rem;
     font-size: 1.1rem;
     font-weight: bold;
     border: none;
-    background-color: #f9f9f9; 
-            
+    background-color: #f9f9f9;        
     border-radius: 10px;     
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
 }
 
 .activee button{
     background-color: rgb(4, 48, 48);
-    background-color: rgb(235, 140, 140);
-    /* margin-left: 16rem; */
     height: 4rem;
     font-size: 1.1rem;
     font-weight: bold;
@@ -77,9 +74,6 @@
    border-radius: 10px;
    background-color: rgb(66, 65, 65);
    color: white;
-   
-   
-   
 
 }
 

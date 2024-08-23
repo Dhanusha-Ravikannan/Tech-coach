@@ -4,8 +4,6 @@
     display: flex;
     gap: 3rem;
     padding-top: 2rem;
-
-    
 }
 
 
@@ -24,8 +22,6 @@
    
 }
 
-
-
 .first{
     margin-left: 2rem;
     margin-right: 2rem;
@@ -35,12 +31,8 @@
     margin-top: 15rem;
     font-weight: bold;
     font-size: 1.3rem;
-    background-color: rgb(223, 132, 132);
-    cursor: pointer;
+    background-color: rgb(223, 132, 132);cursor: pointer;
     color: rgb(25, 2, 59);
-    /* color: white; */
-
-
     background-color: #f9f9f9;          
     border-radius: 10px;     
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
@@ -51,7 +43,7 @@
     background-color: rgb(127, 122, 121);
     color: rgb(25, 2, 59);
    
-    background-color: rgb(223, 132, 132);
+
     background-color: rgb(111, 108, 107);
     color: white;
 

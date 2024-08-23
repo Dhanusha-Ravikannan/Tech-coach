@@ -1,7 +1,7 @@
 .cen{
    
-    text-align: center;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   text-align: center;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
    padding-top: 8rem;
    border: 0%;
    margin: 0%;
@@ -14,12 +14,10 @@
     font-weight: bold;
     padding-left: 8.5rem;
     padding-right: 7rem;
-    background-color: rgb(49, 68, 60);
     color: aliceblue;
     border: none;
     width:37.6rem;
     cursor: pointer;
-    background-color: rgb(212, 126, 126);
     background-color: rgb(85, 81, 81);
 }
 
@@ -47,9 +45,6 @@
     font-weight: bold;
     padding-left: 11.2rem;
     padding-right: 11.2rem;
-    background-color: rgb(49, 68, 60);
-    background-color: red;
-    /* background-color: rgba(23, 7, 7, 0.645); */
     width: 42rem;
     color: aliceblue;
     cursor: pointer;
@@ -67,13 +62,11 @@
 }
 
 .load{
-    background-color: rgb(250, 51, 51);
     font-size: 1.2rem;
     height: 3rem;
     border-radius: 5px;
     color: white;
     width: 20rem;
-    background-color: blue;
     background-color: rgb(117, 101, 129);
     cursor: pointer;
     border: none;
@@ -85,7 +78,6 @@
     height: 3rem;
     border-radius: 5px;
     width: 20rem;
-    background-color: blue;
     background-color: rgb(117, 101, 129);
     color: white;
     cursor: pointer;
@@ -112,8 +104,6 @@
 .awe{
     font-size: 1.9rem;
     margin-top: 8px;
-    color: rgb(34, 34, 119);
-    color: rgb(49, 68, 60);
     cursor: pointer;
     color:   rgb(89, 87, 87);;
     
